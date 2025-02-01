@@ -89,7 +89,7 @@ color: var(--bg-color);
 }
 
 #menu-icon{
-  color: var(--bg-color);
+  color: white;
   font-size: 24px;
   z-index: 100001;
   cursor: pointer;
